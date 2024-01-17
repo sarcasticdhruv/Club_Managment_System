@@ -1,4 +1,4 @@
-# Club_Managment_System
+# Club Managment System
 This is a simple console-based Club Management System written in C language. It allows you to manage the members and events of a club. The system requires a password for access, and it provides options for adding, deleting, searching, viewing, and editing member information. Additionally, it includes functionality for managing events.
 
 **Features:**
